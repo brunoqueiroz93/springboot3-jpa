@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.brunoqueiroz.course.entites.User;
 import com.brunoqueiroz.course.services.UserService;
-import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController
